@@ -1,7 +1,0 @@
-[
-null,
-{"id":1,"expanded":true,"name":"Field Map","order":1,"parentId":0,"scrollX":704.5,"scrollY":392.5},
-{"id":2,"expanded":true,"name":"Normal Town","order":2,"parentId":1,"scrollX":950,"scrollY":640.6666666666666,"quick":false},
-{"id":3,"expanded":false,"name":"Stone Cave","order":4,"parentId":1,"scrollX":939.3333333333334,"scrollY":1280.6666666666667,"quick":false},
-{"id":4,"expanded":false,"name":"Inn 1F","order":3,"parentId":2,"scrollX":939.3333333333334,"scrollY":534,"quick":false}
-]
