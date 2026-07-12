@@ -4,5 +4,5 @@ null,
 {"id":2,"expanded":true,"name":"Chapter01-Start","order":1,"parentId":0,"scrollX":0,"scrollY":0,"quick":false},
 {"id":3,"expanded":false,"name":"Chapter01-Execution","order":3,"parentId":2,"scrollX":939.3333333333334,"scrollY":534,"quick":false},
 {"id":4,"expanded":false,"name":"Chapter01-Jail","order":2,"parentId":2,"scrollX":939.3333333333334,"scrollY":534,"quick":false},
-{"id":5,"expanded":false,"name":"Chapter01-Escape!","order":4,"parentId":2,"scrollX":950,"scrollY":587.3333333333334,"quick":false}
+{"id":5,"expanded":false,"name":"Chapter01-Escape!","order":4,"parentId":2,"scrollX":965,"scrollY":488,"quick":false}
 ]
