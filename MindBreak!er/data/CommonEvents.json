@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"list":[{"code":101,"indent":0,"parameters":["SF_Monster",1,0,2,""]},{"code":401,"indent":0,"parameters":["마인드 브레이크 테스트"]},{"code":101,"indent":0,"parameters":["Evil",7,0,2,""]},{"code":401,"indent":0,"parameters":["마인드 브레이크 테스트"]},{"code":0,"indent":0,"parameters":[]}],"name":"마인드브레이크!!!","switchId":1,"trigger":1},
-{"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":1,"list":[{"code":101,"indent":0,"parameters":["Evil",7,0,2,""]},{"code":401,"indent":0,"parameters":["마인드 브레이크!!!"]},{"code":121,"indent":0,"parameters":[1,1,0]},{"code":340,"indent":0,"parameters":[]},{"code":230,"indent":0,"parameters":[1]},{"code":340,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"마인드브레이크!!!","switchId":1,"trigger":1},
+{"id":2,"list":[{"code":111,"indent":0,"parameters":[0,1,0]},{"code":117,"indent":1,"parameters":[2]},{"code":121,"indent":1,"parameters":[1,1,1]},{"code":101,"indent":1,"parameters":["SF_Monster",1,0,2,""]},{"code":401,"indent":1,"parameters":["마인드 듀얼 테스트다!"]},{"code":101,"indent":1,"parameters":["Evil",7,0,2,""]},{"code":401,"indent":1,"parameters":["마인드 듀얼 테스트다! 자, 와라!"]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"마인드듀얼","switchId":1,"trigger":0},
 {"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
 {"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
 ]
